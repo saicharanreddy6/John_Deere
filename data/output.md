@@ -1,5 +1,4 @@
-# X9 1000 and X9 1100 Combines (North American
-Edition)820001
+# X9 1000 and X9 1100 Combines (North American Edition)820001
 
 **North American Edition**
 
